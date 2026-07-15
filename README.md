@@ -1,4 +1,6 @@
-![Taxi Forecasting Results](taxi_forecasting_result.png)
+<p align="center">
+  <img src="taxi_forecasting_result.png" width="650">
+</p>
 
 # 🚕 Taxi Demand Forecasting
 
