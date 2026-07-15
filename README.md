@@ -8,6 +8,15 @@ Time series forecasting project developed to predict hourly taxi demand and supp
 
 This project focuses on forecasting the number of taxi orders required for the following hour.
 
+## 📈 Prediction Performance
+
+The chart below compares the actual taxi demand against the model predictions on the test dataset.
+
+The Random Forest model successfully captures the overall demand pattern while maintaining an RMSE of **43.10**, outperforming the baseline model.
+
+![Taxi Forecasting Results](taxi_forecasting_result.png)
+
+
 The objective was to build a regression model capable of predicting short-term demand using historical order data, temporal patterns and lag-based features.
 
 The final solution improved significantly over the baseline model and achieved the required performance target.
