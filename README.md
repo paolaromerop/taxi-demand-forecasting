@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="taxi_forecasting_result.png" width="650">
+  <img src="taxi_forecasting_result.jpg" width="650">
 </p>
 
 # 🚕 Taxi Demand Forecasting
